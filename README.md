@@ -1,1 +1,1 @@
-# Dummy-project
+product-preview-card-component
